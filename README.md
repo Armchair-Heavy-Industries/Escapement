@@ -1,5 +1,5 @@
 # Escapement
-Gallileo 2 rehousing native fit for Archetype, Xol and others
+Gallileo 2 rehousing native fit for Archetype, Xol and others, now compatible with the Experimental branch of Archetype
 
 More to follow eventually.
 
